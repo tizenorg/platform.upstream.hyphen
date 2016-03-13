@@ -9,6 +9,14 @@ Branch: refs/heads/tizen
 Code-Review+2: Jongmin Lee <jm105.lee@samsung.com>
 Verified+1: Jongmin Lee <jm105.lee@samsung.com>
 Submitted-by: Sungtaek Hong <sth253.hong@samsung.com>
+Submitted-at: Thu, 10 Mar 2016 19:06:41 -0700
+Reviewed-on: https://review.tizen.org/gerrit/61768
+Project: platform/upstream/hyphen
+Branch: refs/heads/tizen
+
+Code-Review+2: Jongmin Lee <jm105.lee@samsung.com>
+Verified+1: Jongmin Lee <jm105.lee@samsung.com>
+Submitted-by: Sungtaek Hong <sth253.hong@samsung.com>
 Submitted-at: Thu, 10 Mar 2016 18:06:41 -0800
 Reviewed-on: https://review.tizen.org/gerrit/61768
 Project: platform/upstream/hyphen
