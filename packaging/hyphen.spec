@@ -53,7 +53,7 @@ rm -rf %{buildroot}
 
 %makeinstall gnulocaledir=$RPM_BUILD_ROOT%{_datadir}/locale
 mkdir -p %{buildroot}/usr/share/license
-cat COPYING COPYING.LGPL > %{buildroot}/usr/share/license/%{name}
+cat COPYING COPYING.LGPL COPYING.GPL > %{buildroot}/usr/share/license/%{name}
 
 # Don't package static a or .la files
 rm -f $RPM_BUILD_ROOT%{_libdir}/*.{a,la}
