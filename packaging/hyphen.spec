@@ -3,7 +3,7 @@ Summary:        Hyphenation library to use converted TeX hyphenation patterns
 Version:        2.8.8
 Release:        1
 Group:          Graphics & UI Framework/Utilities
-License:        LGPL-2.1+ or MPL-1.1+ or GPL-2.0+
+License:        MPL-1.1+ or LGPL-2.1+ or GPL-2.0+
 Url:            http://hunspell.sourceforge.net
 Source0:        http://sourceforge.net/projects/hunspell/files/Hyphen/2.8/hyphen-%{version}.tar.gz
 Source1001:     packaging/hyphen.manifest
